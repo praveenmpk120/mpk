@@ -12,7 +12,7 @@ printf("the character is vowel");
 }
 else
 {
-printf("the character is an odd");
+printf("the character is cosonent");
 }
 getch();
 }
